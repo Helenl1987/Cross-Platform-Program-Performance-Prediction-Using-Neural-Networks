@@ -1,0 +1,148 @@
+0 round of counting
+64906
+37397
+33395
+1 round of counting
+60009
+40408
+37783
+2 round of counting
+1208
+825
+759
+3 round of counting
+1105
+785
+751
+4 round of counting
+5
+1
+1
+5 round of counting
+1413
+1108
+1034
+6 round of counting
+19930
+13005
+12900
+7 round of counting
+0
+0
+0
+8 round of counting
+296
+280
+274
+9 round of counting
+307
+275
+295
+10 round of counting
+0
+0
+0
+11 round of counting
+29243
+18998
+18141
+12 round of counting
+28288
+18415
+18133
+13 round of counting
+923
+732
+623
+14 round of counting
+49971
+31461
+31035
+15 round of counting
+51033
+32651
+32112
+16 round of counting
+1293
+995
+932
+17 round of counting
+21679
+13684
+13868
+18 round of counting
+21966
+13880
+13913
+19 round of counting
+276
+269
+282
+20 round of counting
+1
+0
+0
+21 round of counting
+7
+1
+0
+22 round of counting
+5
+3
+0
+23 round of counting
+16817
+11366
+10694
+24 round of counting
+0
+0
+0
+25 round of counting
+6245
+4242
+4286
+26 round of counting
+647
+354
+308
+27 round of counting
+10926
+7216
+7287
+28 round of counting
+3885
+3737
+3737
+29 round of counting
+6604
+4522
+4476
+30 round of counting
+140
+120
+120
+31 round of counting
+272
+252
+251
+32 round of counting
+296
+296
+295
+33 round of counting
+296
+296
+295
+34 round of counting
+708
+668
+666
+35 round of counting
+0
+0
+0
+36 round of counting
+708
+668
+666
